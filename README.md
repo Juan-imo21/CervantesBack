@@ -1,10 +1,10 @@
-# Proyecto de Sistemas 3 - BackEnd .NET
+# Proyecto de Practicas Profesionalizantes - BackEnd .NET
 
 Este repositorio contiene el código fuente del BackEnd desarrollado en .NET para el proyecto de Sistemas 3.
 
 ## Descripción
 
-Este proyecto constituye la parte del servidor del sistema de gestión integral desarrollado para la asignatura de Sistemas 3. El BackEnd está construido en .NET y se encarga de gestionar las solicitudes del cliente, procesar datos y comunicarse con la base de datos.
+Este proyecto constituye la parte del servidor del sistema de gestión integral desarrollado para la asignatura de Practicas Profesionalizantes . El BackEnd está construido en .NET y se encarga de gestionar las solicitudes del cliente, procesar datos y comunicarse con la base de datos.
 
 ## Funcionalidades
 
