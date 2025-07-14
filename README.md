@@ -1,6 +1,6 @@
 # Proyecto de Practicas Profesionalizantes - BackEnd .NET
 
-Este repositorio contiene el código fuente del BackEnd desarrollado en .NET para el proyecto de Sistemas 3.
+Este repositorio contiene el código fuente del BackEnd desarrollado en .NET para el proyecto de Practicas Profesionalizantes.
 
 ## Descripción
 
