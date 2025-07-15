@@ -1,0 +1,55 @@
+# Archivos generados por Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.pdb
+
+# Archivos generados por el sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de configuración personal
+*.userprefs
+*.csproj.user
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de publicación
+publish/
+*.publish.xml
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider y JetBrains
+.idea/
+*.sln.iml
+
+# Archivos de caché
+*.cache
+*.dbmdl
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos de entorno
+.env
+
+# Carpetas ocultas del sistema operativo
+.DS_Store
